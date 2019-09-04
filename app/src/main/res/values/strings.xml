@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Level1Example</string>
+    <string name="title">What kind of animal is this?</string>
+    <string name="giraffe">Giraffe</string>
+    <string name="confirm">Confirm</string>
+    <string name="correct">Correct!</string>
+    <string name="incorrect">Incorrect, the correct answer is Giraffe!</string>
+    <string name="species">Species</string>
+
+</resources>
